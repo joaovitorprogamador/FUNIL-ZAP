@@ -507,7 +507,7 @@ button {
   position: relative;
   z-index: 2;
 
-  width: 960px;
+  width: 500px;
   max-width: 100%;
 
   transform: rotate(2deg);
